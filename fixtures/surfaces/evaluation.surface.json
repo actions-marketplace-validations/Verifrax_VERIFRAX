@@ -1,0 +1,10 @@
+{
+  "artifact_hash": "sha256:aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+  "builder_id": "https://github.com/Verifrax/VERIFRAX/actions",
+  "source_uri": "https://github.com/Verifrax/VERIFRAX",
+  "dependencies": [],
+  "vulnerabilities": [],
+  "signature_valid": true,
+  "provenance_valid": true,
+  "metadata_hash": "sha256:bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb"
+}
